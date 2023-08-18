@@ -6,16 +6,26 @@ Welcome to the official GitHub repository for the **College Football Power Pick 
 
 This was a labor of love. Built by a fan for all fans.
 
+Special thanks to these individuals who helped me make this a reality with their feedback and ideas:
+
+- Jon Fisher
+- Eric Jensen
+- Eric Lott
+- Allan McDaniel
+- Abigail Perkins
+- Keith Railey
+- my wife
+
 ## Repository Contents
 
-This repository is organized into several key directories and files:
+This repository is organized into two files:
 
-- `/src`: contains the Solution .zip
+- `CFBPowerPickEm_`: is the Solution .zip file.
 - `README.md`: You're reading it! This document provides an overview of the repository and its contents.
 
 ## Getting Started
 
-To get started with College Football Power Pick'em:
+To get started with College Football Power Pick 'Em:
 
 1. Download the .zip file.
 2. Enable PCF Components for your environment of choice.
@@ -37,7 +47,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 We hope you enjoy using College Football Power Pick 'Em!
 
-## Gallery
+## App Gallery
 
 ![screenshot_pick_em](https://github.com/jaredwsimmons/cfbpowerpickem/assets/141364486/cd92d354-7989-42b4-8699-94f8a1954044)
 
