@@ -23,6 +23,8 @@ This repository is organized into two files:
 - `CFBPowerPickEm_`: is the Solution .zip file.
 - `README.md`: You're reading it! This document provides an overview of the repository and its contents.
 
+Once you've imported the Solution into your environment, you'll see a couple dozen Power Automate flows that utilize CollegeFootballData.com APIs, a Canvas app utilizing the PowerCAT Creator Kit, and one nightly Power Automate flow that grades all open picks once the games havve been played.
+
 ## Getting Started
 
 To get started with College Football Power Pick 'Em:
