@@ -37,9 +37,8 @@ To get started with College Football Power Pick 'Em:
 
 If you have any questions, feedback, or issues, you can reach out to us through the following channels:
 
-- Website: [https://cfbpowerpickem.com](https://cfbpowerpickem.com)
 - GitHub Issues: [https://github.com/jaredwsimmons/cfb-power-pickem/issues](https://github.com/jaredwsimmons/cfb-power-pickem/issues)
-- Email: cfbpowerpickem@gmail.com
+- Email: jared.simmons@hotmail.com
 
 ## License
 
